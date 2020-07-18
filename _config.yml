@@ -25,7 +25,7 @@ favicon: img/dolphin.gif # 浏览器地址栏小图标，可自定义更改
 
 douban_username:  # 你的豆瓣id
 twitter_username:
-github_username: kifish
+github_username: ffeiDing
 facebook_username:
 weibo_username:
 zhihu_username:
@@ -56,7 +56,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "kifish" # 你的名字
+      author: "feiyafei" # 你的名字
       header-img: "img/zhihu.jpg" # We don't want posts without a header image, that whould mean white on white
 
 #add reading hits
