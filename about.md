@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "About"
-description: "kifish"
+description: "ffeiDing"
 header-img: "img/zhihu.jpg"
 ---
 
-github: kifish
+github: ffeiDing
